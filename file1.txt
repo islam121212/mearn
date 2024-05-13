@@ -1,1 +1,6 @@
-sssadd
+git rm -f + 'file name ' => remove file from git and from your pc
+git rm --cached + 'file name' => remove file from Git only
+git rm --cached -r + 'folder name' => remove folder from Git only
+
+git commit --amend -m "message" => لاضافة التعغيرات في الكوميت القديم 
+
