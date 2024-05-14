@@ -11,3 +11,5 @@ git merge + the name of branch => move changes from  the branch that you typed h
 git branch -d + the name of branch => to delete the branch 
 
 adding line 13 
+
+hello from feature 1 branch 
