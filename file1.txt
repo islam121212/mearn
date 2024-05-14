@@ -9,3 +9,5 @@ git branch + the name of branch => make new branch
 git switch + the name of branch => switch between branches
 git merge + the name of branch => move changes from  the branch that you typed his name to the current branch
 git branch -d + the name of branch => to delete the branch 
+
+adding line 13 
