@@ -12,4 +12,5 @@ git branch -d + the name of branch => to delete the branch
 
 adding line 13 
 
-hello from feature 1 branch 
+from islam form feature 1
+dddd
