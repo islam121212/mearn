@@ -4,3 +4,8 @@ git rm --cached -r + 'folder name' => remove folder from Git only
 
 git commit --amend -m "message" => لاضافة التعغيرات في الكوميت القديم 
 
+git branch => show me the all branches 
+git branch + the name of branch => make new branch
+git switch + the name of branch => switch between branches
+git merge + the name of branch => move changes from  the branch that you typed his name to the current branch
+git branch -d + the name of branch => to delete the branch 
